@@ -1,4 +1,4 @@
-package chum.euler.one;
+package chum.euler.one.driver;
 
 public class Driver {
 	public final static int RANGE = 1000;
